@@ -1,3 +1,6 @@
 # Demo 2
 
-Second Demos - Edited
+Second Demos
+
+# Local Development
+Open index html in your browser.
